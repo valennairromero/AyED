@@ -1,0 +1,2 @@
+Para la solución del tp, lo que yo pensé fue usar un "while" para que el programa itere hasta que la diferencia entre la variable definida del numero pi (M_PI), y el resultado de la formula de Liebniz,(multiplicado por 4, ya que la formula tiene como resultado pi sobre 4) sea mayor o igual a 0.0000001, debido que cuando esto ocurriera significa que los primeros 6 decimales son los correctos, que era lo buscado, una vez obtenido el numero, se muestra en pantalla.
+En la resta, utilice la función "fabs" para que el resultado de la misma se tome como valor absoluto.
